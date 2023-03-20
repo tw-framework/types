@@ -3,7 +3,7 @@ import { Buildings } from "./building";
 
 export interface Village {
     bonus: Bonus;
-    // bonus_id
+    bonus_id: number;
     buildings: Buildings;
     coord: string;
     display_name: string;
