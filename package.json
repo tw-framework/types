@@ -6,12 +6,12 @@
   "types": "src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tw-framework/tw-types.git"
+    "url": "git+https://github.com/tw-framework/types.git"
   },
   "author": "LegendaryB",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tw-framework/tw-types/issues"
+    "url": "https://github.com/tw-framework/types/issues"
   },
-  "homepage": "https://github.com/tw-framework/tw-types#readme"
+  "homepage": "https://github.com/tw-framework/types#readme"
 }
